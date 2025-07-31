@@ -1,2 +1,2 @@
 # rdui
-A ui lib for lua and love2d
+an ui lib for lua and love2d
